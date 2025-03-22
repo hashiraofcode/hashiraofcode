@@ -30,8 +30,11 @@ Olá! Eu sou **Valmir Neto**, estudante de **Desenvolvimento Front-End** e um en
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hashiraofcode/hashiraofcode/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
+  
+
 
 <!-- Conteúdo sobre mim -->
+---
 ## 📚 Atualmente Estou Estudando:
 <br><br>
 <p align="center">
@@ -68,8 +71,16 @@ Acredito que a chave para o sucesso é a **constância** e a **curiosidade**. N�
 ## (⌐■_■) Fale Comigo!!!
 [![linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/valmir-neto-futurodevfullstack) [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5514988110406?text=Olá%2C+gostaria+de+saber+mais+sobre+seu+trabalho!)
 
+---
 
 ## 🎯 Fique à Vontade para Explorar!
 Este é um espaço onde compartilho meu progresso e projetos, fique à vontade para explorar e acompanhar minha evolução. Espero que goste!
 ---
+<p align="center">
+  <picture>
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZwcDEzNmdtaWV1Zjl2Y2xnMW45YXQ0ZjA5MmRnMmhkY3IwZmtlciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WnTsYrfU1OXGE/giphy.gif"
+      
+  </picture>
+</p>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5455ae&height=120&section=footer"/>
