@@ -77,11 +77,6 @@ Acredito que a chave para o sucesso é a **constância** e a **curiosidade**. N�
 ## 🎯 Fique à Vontade para Explorar!
 Este é um espaço onde compartilho meu progresso e projetos, fique à vontade para explorar e acompanhar minha evolução. Espero que goste!
 ---
-<p align="center">
-  <picture>
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZwcDEzNmdtaWV1Zjl2Y2xnMW45YXQ0ZjA5MmRnMmhkY3IwZmtlciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WnTsYrfU1OXGE/giphy.gif"
-      
-  </picture>
-</p>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5455ae&height=120&section=footer"/>
