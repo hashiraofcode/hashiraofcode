@@ -14,11 +14,11 @@ Olá! Eu sou **Valmir Neto**, estudante de **Desenvolvimento Front-End** e um en
 <!-- cards content -->
 <div align="center">
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hashiraofcode&theme=tokyonight) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hashiraofcode&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hashiraofcode&theme=tokyonight&utcOffset=8) |
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hashiraofcode&theme=tokyonight) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hashiraofcode&theme=ambient_gradient&langs_count=7 )](https://github.com/anuraghazra/github-readme-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hashiraofcode&theme=tokyonight&utcOffset=8) |
 | :-: | :-: | :-: |
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hashiraofcode&theme=tokyonight) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hashiraofcode&theme=ambient_gradient&langs_count=7 )](https://github.com/anuraghazra/github-readme-stats)|
-| :-: | :-: |
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hashiraofcode&theme=tokyonight) |
+| :-: | 
   
 </div>
 <br>
