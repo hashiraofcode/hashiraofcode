@@ -66,7 +66,6 @@ Acredito que a chave para o sucesso é a **constância** e a **curiosidade**. N�
 - **Determinado e focado em resultados**
 - **Comunicativo e colaborativo**
 - **Curioso e sempre em busca de aprendizado constante**
-- **Amante de animes** (mas isso é só um bônus 😄)
 ---
 ## (⌐■_■) Fale Comigo!!!
 [![linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valmir-neto-futurodevfullstack/) [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5514988110406?text=Olá%2C+gostaria+de+saber+mais+sobre+seu+trabalho!) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:netovalmir740@gmail.com)
