@@ -35,7 +35,7 @@ Olá! Eu sou **Valmir Neto**, estudante de **Desenvolvimento Front-End** e um en
 
 <!-- Conteúdo sobre mim -->
 ---
-## 📚 Atualmente Estou Estudando:
+## 🔨 Atualmente dominando:
 <br><br>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" style="margin-right: 20px;" />
@@ -46,6 +46,8 @@ Olá! Eu sou **Valmir Neto**, estudante de **Desenvolvimento Front-End** e um en
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" style="margin-right: 20px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" style="margin-right: 20px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" style="margin-right: 20px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" style="margin-rigth:20px;" />
+          
 </p>
 <br>
 
