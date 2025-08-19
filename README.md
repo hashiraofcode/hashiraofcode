@@ -79,7 +79,7 @@ Acredito que a chave para o sucesso é a **constância** e a **curiosidade**. N�
 Este é um espaço onde compartilho meu progresso e projetos, fique à vontade para explorar e acompanhar minha evolução. Espero que goste!
 ---
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDJsam9haHc5ZGw2cWF3N3R3cWEyaHZtYWp2MzE0MG85ejlodXE2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rzcYzbp8BZmwWTUPFa/giphy.gif"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNtZDJ5NmNiaHZmMnFmMm52b2RmbmdqOTNweHB2Z28xZ3lhMGE3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"/>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5455ae&height=120&section=footer"/>
